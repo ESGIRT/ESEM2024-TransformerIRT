@@ -2,7 +2,6 @@
 <img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/logo.png" alt="TAIRT" width="40%" />
 </p>
 
----
 
  ## About
 This repository is the replication package for paper: **"An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports"**
