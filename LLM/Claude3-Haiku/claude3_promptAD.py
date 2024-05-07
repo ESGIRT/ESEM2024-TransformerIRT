@@ -41,7 +41,6 @@ def classify_text(text):
         ]
     )
 
-    # print(completion.choices[0].message.content)
     text = completion.choices[0].message.content
     pattern = re.compile(r'\b(describe|expected|reproduce|actual|environment|additional)\b', re.IGNORECASE)
 
@@ -67,7 +66,7 @@ if __name__ == '__main__':
         predictions.append(category)
         true_labels.append(int(label))
 
-        with open('claude3-2.csv', 'a', newline='', encoding='utf-8') as file:
+        with open('claude3_promptAD.csv', 'a', newline='', encoding='utf-8') as file:
             fieldnames = ['predictions', 'true_labels']
             writer = csv.DictWriter(file, fieldnames=fieldnames)
             writer.writerow({
