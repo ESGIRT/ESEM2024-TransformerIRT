@@ -40,7 +40,6 @@ def classify_text(text):
         ]
     )
 
-    # print(completion.choices[0].message.content)
     text = completion.choices[0].message.content
     pattern = re.compile(r'\b(describe|expected|reproduce|actual|environment|additional)\b', re.IGNORECASE)
 
