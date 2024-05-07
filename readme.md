@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/logo.png" alt="TAIRT" width="40%" />
+<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/logo.png" alt="TAIRT" width="50%" />
 </p>
 
 
@@ -13,3 +13,7 @@ The replication package contains the datasets, code, and models used in our stud
 - **LLM:** The code for directly invoking the interfaces of the large models GPT3.5 and Claude3 for automatic templating tasks. It is important to note that researchers need to input their own API key in the code.
 
 ## Overview
+
+<p align="center">
+<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/Image/overview.png" alt="TAIRT" width="100%" />
+</p>
