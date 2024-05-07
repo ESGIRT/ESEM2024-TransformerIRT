@@ -17,3 +17,4 @@ The replication package contains the datasets, code, and models used in our stud
 <p align="center">
 <img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/Image/overview.png" alt="TAIRT" width="80%" />
 </p>
+下图概括了我们的工作
