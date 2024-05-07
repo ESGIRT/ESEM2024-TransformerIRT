@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/logo.png" alt="TAIRT" width="50%" />
+<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/Image/logo.png" alt="TAIRT" width="50%" />
 </p>
 
 
